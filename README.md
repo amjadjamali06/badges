@@ -13,3 +13,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amjadjamali06/intrinsic_grid_view.svg)](https://github.com/amjadjamali06/intrinsic_grid_view)
+
+https://badgen.net/badge/Other/Badges/cyan
+
+[https://badgen.net/badge/Other/Badges/cyan](https://badgen.net)
