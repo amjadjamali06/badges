@@ -14,6 +14,6 @@
 
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/amjadjamali06/intrinsic_grid_view.svg)](https://github.com/amjadjamali06/intrinsic_grid_view)
 
-https://badgen.net/badge/Other/Badges/cyan
 
-[https://badgen.net/badge/Other/Badges/cyan](https://badgen.net)
+[![Other](https://badgen.net/badge/Other/Badges/cyan)](https://badgen.net)
+
